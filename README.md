@@ -1,5 +1,5 @@
 # ClimateSimulations
-Using geo-spatial modeling to simulate sea-level rise. It shows what six meters of difference(sea-level rise) might look like across the world.
+This project uses geo-spatial modeling to simulate sea-level rise. It shows what six meters of difference(sea-level rise) might look like across the world.
 I worked on this project with [William Staudenmeier](https://github.com/WilliamStaudenmeier), who is a very experienced and learned Data Scientist. 
 
 ### Six meters of difference!
