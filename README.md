@@ -7,5 +7,6 @@ Did you know that climatologists are beginning to use artificial intelligence an
 
 From an R programming perspective, the #elevatr package has been used to pull geospatial data for any lat/long coordinates in the world and #rayshader package to simulate different scenarios.
 
-###### Below is the visualization of the output achieved.
+Below is the visualization of the output achieved.
+
 ![](https://github.com/krishangi-deka/ClimateSimulations/blob/master/SeaLevelRise.gif)
